@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavigateRams</string>
+    <string name="title_activity_campus_map_screen">CampusMapScreen</string>
+
+    <string name="fsc_infos">https://albeesampledata.000webhostapp.com/fsc_samples.json</string>
+</resources>
